@@ -1,0 +1,16 @@
+/* Hero */
+.hero {
+  margin-bottom: 50px;
+}
+
+.hero .container {
+  background: url(../images/hero-bg.png) no-repeat;
+  background-size: contain;
+  background-position: center bottom;
+  height: 550px;
+}
+
+.hero .hero-content {
+  width: 70%;
+  margin-bottom: 20px;
+}
