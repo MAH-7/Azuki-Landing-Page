@@ -112,3 +112,20 @@
   background: #000;
   color: #fff;
 }
+
+/* Media Queries */
+@media (max-width: 960px) {
+}
+
+@media (max-width: 670px) {
+  .navbar .main-menu {
+    display: none;
+  }
+
+  .navbar .hamburger-button {
+    display: block;
+  }
+}
+
+@media (max-width: 500px) {
+}
