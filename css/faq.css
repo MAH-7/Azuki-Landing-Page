@@ -16,6 +16,16 @@
   cursor: pointer;
 }
 
+.faq ul.faq-menu li {
+  padding: 10px 20px;
+  border-radius: 0.25rem;
+  text-align: center;
+}
+
+.faq ul.faq-menu li.active {
+  background: var(--primary-color);
+}
+
 .faq .faq-group {
   border-bottom: 1px solid #ccc;
   padding-bottom: 20px;
